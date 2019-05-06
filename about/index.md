@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
 date: 2019-05-05
 comments: false
 ---
     
-<center><a href="http://GuoZhihong.github.io"><b>About me</b></a></center>
+<center><a href="http://GuoZhihong.github.io/about"><b>About me</b></a></center>
 
 ## Who am I?
 * a recently graduated computer science student
@@ -15,4 +15,4 @@ comments: false
 * a big fan of Chelsea Football club
 
 ## CV
-download from [here](http://GuoZhihong.github.io).
+download from [here](http://GuoZhihong.github.io/cv).
