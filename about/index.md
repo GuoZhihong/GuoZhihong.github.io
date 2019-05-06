@@ -15,4 +15,4 @@ comments: false
 * a big fan of Chelsea Football club
 
 ## CV
-download from [here](http://GuoZhihong.github.io/cv).
+download from [here](http://GuoZhihong.github.io/cv/newCV2.pdf).
