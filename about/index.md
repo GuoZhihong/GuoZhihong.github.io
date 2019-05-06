@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-tags: [about, Jekyll, theme, moon]
+tags: [about, Jekyll, theme, moon,cv]
 date: 2019-05-05
 comments: false
 ---
@@ -12,5 +12,5 @@ comments: false
 * an amateur body builder 
 * a big fan of Chelsea Football club
 
-## CV
+## My CV
 download from [here](http://GuoZhihong.github.io/cv/newCV2.pdf).
