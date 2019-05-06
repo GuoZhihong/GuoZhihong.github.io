@@ -1,4 +1,7 @@
-# I used Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+# I used Moon Jekyll Theme to create this site
+
+#Here are the info with the theme aurthur:
+[![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)
   
 ## `Sorry guys but there will be no update until I buy a new laptop.`
     
