@@ -6,8 +6,6 @@ date: 2019-05-05
 comments: false
 ---
     
-<center><a href="http://GuoZhihong.github.io/about"><b>About me</b></a></center>
-
 ## Who am I?
 * a recently graduated computer science student
 * a former civil engineer
