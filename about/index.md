@@ -15,4 +15,4 @@ comments: false
 * a big fan of Chelsea Football club
 
 ## CV
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+download from [here](http://GuoZhihong.github.io).
